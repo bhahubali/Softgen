@@ -15,4 +15,8 @@ public class NewTest2 {
   public void er(){
 	  System.out.println("vani");
   }
+  @Test(priority = 4)
+  public void e(){
+	  System.out.println("vani");
+  }
 }
